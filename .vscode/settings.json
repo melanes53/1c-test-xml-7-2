@@ -1,0 +1,7 @@
+﻿{
+    "language-1c-bsl.languageServerEnabled":  true,
+    "files.associations":  {
+                               "*.bsl":  "bsl",
+                               "*.os":  "bsl"
+                           }
+}
